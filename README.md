@@ -7,7 +7,7 @@ This project demonstrates practical applications of **Deep Learning for Text**, 
 
 ---
 
-![Project Thumbnail](cnn_lstm.jpg)
+![Project Thumbnail](cnn_lstm.png)
 
 ---
 ## 📌 Overview
